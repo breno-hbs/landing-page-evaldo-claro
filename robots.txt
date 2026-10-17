@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://evaldoclaro.com.br/sitemap.xml
