@@ -4,8 +4,8 @@ Site de apresentação e contato de um psicanalista, publicado em produção.
 
 🔗 **Demonstração:** https://evaldoclaro.com.br
 
-![Captura da página inicial](docs/screenshot-home.png)
-<!-- TODO: adicionar capturas desktop e celular -->
+<img width="1917" height="916" alt="image" src="https://github.com/user-attachments/assets/008e922e-fb4f-461a-9e72-5eafeffe45ec" />
+<img width="486" height="852" alt="image" src="https://github.com/user-attachments/assets/7da72c15-960d-4ce2-b729-529c79fbe87b" />
 
 ## Sobre o projeto
 
